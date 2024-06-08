@@ -6,4 +6,4 @@ layout: default
 
 _yay_
 
-[prod 1](/products/product1)
+[prod 1](./products/product1)
