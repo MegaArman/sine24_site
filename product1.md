@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Products
+## Product 1
 
-_yay_
+_blah_
 
 [prod 1](./product1)
