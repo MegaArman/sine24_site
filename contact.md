@@ -4,6 +4,6 @@ layout: default
 
 # Contact
 
-_yay_
+_blah_
 
 [back](./)
