@@ -210,7 +210,7 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-@media print, screen and (min-width: 720px) {
+@media print, screen and (max-width: 4000px) {
   body {
     word-wrap:break-word;
   }
