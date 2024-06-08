@@ -2,4 +2,5 @@ title: Minimal theme
 logo: /assets/img/sine24_blue.png
 description:
 show_downloads: true
+base_url: /sine24_site
 theme: jekyll-theme-minimal
