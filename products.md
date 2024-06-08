@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Products
+# Products
 
 _yay_
 
