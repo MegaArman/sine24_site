@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="74.449837mm"
+   width="70.065468mm"
    height="18.272018mm"
-   viewBox="0 0 74.449837 18.272018"
+   viewBox="0 0 70.065468 18.272018"
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="logo_indigo_outline.svg"
+   sodipodi:docname="logo_255.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.4269919"
-     inkscape:cx="110.37204"
-     inkscape:cy="15.767434"
-     inkscape:window-width="1920"
+     inkscape:zoom="1.0090356"
+     inkscape:cx="35.677629"
+     inkscape:cy="2.4776132"
+     inkscape:window-width="2560"
      inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -38,16 +38,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-61.174274,-82.25326)">
+     transform="translate(-61.354896,-82.25326)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';letter-spacing:0.529167px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:#5900ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'URW Gothic';-inkscape-font-specification:'URW Gothic';letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:#3c00ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        x="61.358185"
        y="99.731766"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-weight:normal;letter-spacing:0.529167px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:#5900ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-weight:normal;letter-spacing:0px;word-spacing:0px;fill:#f9f9f9;fill-opacity:1;stroke:#3c00ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          x="61.358185"
          y="99.731766">SINE24</tspan></text>
     <text
