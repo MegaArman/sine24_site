@@ -12,7 +12,7 @@ or even always 127
 * Monitor the outputted MIDI values on the screen 
 * Can be connected to any device or program that supports MIDI!
 This includes transcription software, synthesizers and digital effects 
-* No special pickup or microphone needed. Plug your audio source into the 3.5mm input
+* No special pickup needed. Plug your audio source into the 3.5mm input
 * Powered by micro-USB. Can be used for hours with any small power bank (not included)
 * Compatible with most USB MIDI cables for output. One is included in the box
 * Foot operable so you don’t have to put down your instrument
