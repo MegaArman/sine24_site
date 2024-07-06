@@ -4,4 +4,4 @@ layout: default
 
 # Products
 
-*   [MIDI MAGPIE - real time audio midi converter](./products/MIDI_MAGPIE)
+*   [MIDI MAGPIE - real-time audio midi converter](./products/MIDI_MAGPIE)
