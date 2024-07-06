@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: midi_magpie
 ---
 
 ## MIDI MAGPIE
