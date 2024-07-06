@@ -5,7 +5,7 @@ layout: midi_magpie
 ## MIDI MAGPIE
 The MIDI MAGPIE turns your instrument into a **monophonic MIDI keyboard** that’s responsive enough to use in any live situation and very handy at home or in the studio. It converts audio to midi with no audible delay. It’s best suited for notes at or above an E2 (guitar, cello, flute, etc)
       
-* Simple calibration for your instrument in under a minute
+* Easy to calibrate for a new instrument in under a minute
 * Foot operable so you don’t have to put down your instrument to get set up
 * The loudness (amplitude) of the note corresponds to what you play and its range can be specified
 * Monitor the outputted MIDI values on the screen 
