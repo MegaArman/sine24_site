@@ -2,13 +2,14 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
-
-<p class="view">by {{ page.author | default: site.author }}</p>
-
 {{content}}
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1PZQAaIFo4awtgbr5L4veLjw"
+  publishable-key="pk_live_51PTDQwIFo4awtgbrtpmA5fniSvR5lc6r654a5YE2NZ2pabN4jVzxeosBPEpE29GT8u2NVjzWXCKzlyhZAvVz1DGe00xj80xOnP"
+>
+</stripe-buy-button>
