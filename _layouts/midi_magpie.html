@@ -8,8 +8,49 @@ layout: default
   src="https://js.stripe.com/v3/buy-button.js">
 </script>
 
+
+<div>
+<section>
+    <div class="container">
+        <div class="carousel">
+            <input type="radio" name="slides" checked="checked" id="slide-1">
+            <input type="radio" name="slides" id="slide-2">
+
+            <ul class="carousel__slides">
+                <li class="carousel__slide">
+                    <figure>
+                        <div>
+                            <img src="/assets/img/magpie_top.svg" alt="">
+                        </div>
+                    
+                    </figure>
+                </li>
+                <li class="carousel__slide">
+                    <figure>
+                        <div>
+                            <img src="https://picsum.photos/id/1043/800/450" alt="">
+                        </div>
+
+                    </figure>
+                </li>
+          
+            </ul>    
+            <ul class="carousel__thumbnails">
+                <li>
+                    <label for="slide-1"><img src="/assets/img/magpie_top.svg" alt=""></label>
+                </li>
+                <li>
+                    <label for="slide-2"><img src="https://picsum.photos/id/1043/150/150" alt=""></label>
+                </li>
+
+        </div>
+    </div>
+</section>
 <stripe-buy-button
+class="centered"
   buy-button-id="buy_btn_1PZSd2IFo4awtgbrKUgkFCcN"
   publishable-key="pk_live_51PTDQwIFo4awtgbrtpmA5fniSvR5lc6r654a5YE2NZ2pabN4jVzxeosBPEpE29GT8u2NVjzWXCKzlyhZAvVz1DGe00xj80xOnP"
 >
 </stripe-buy-button>
+
+</div>
