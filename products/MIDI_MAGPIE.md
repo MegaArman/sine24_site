@@ -24,7 +24,7 @@ This includes transcription software, synthesizers and digital effects
 * USB MIDI cable 
 * Instructions sheet
 
-**NOTE**: currently we only ship to the USA (shipping included in price below). We're working to ship internationally as soon as we can. 
+**NOTE**: currently we only ship within the USA. We're working to ship internationally as soon as we can. 
 
 Orders placed before July 13th, 2024 will ship the following week. We're excited to have you give us a try!
 
