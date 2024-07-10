@@ -1,6 +1,6 @@
 title: sine24
 logo: /assets/img/logo.svg
-description: audio equipment for the 21st century
+description:
 show_downloads: true
 base_url: /sine24_site
 theme: jekyll-theme-minimal
