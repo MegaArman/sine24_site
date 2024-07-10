@@ -1,6 +1,6 @@
 ---
 layout: midi_magpie
-title: "MIDI MAGPIE real-time audio to MIDI convertor by SINE24"
+title: "MIDI MAGPIE real-time audio to MIDI convertor"
 ---
 
 ## MIDI MAGPIE
