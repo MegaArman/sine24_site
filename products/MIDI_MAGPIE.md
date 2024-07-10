@@ -27,7 +27,7 @@ This includes transcription software, synthesizers and digital effects
 
 **NOTE**: currently we only ship within the USA. We're working to ship internationally as soon as we can. 
 
-Orders placed before July 13th, 2024 will ship the following week. We're excited to have you give us a try!
+Orders placed before July 20th, 2024 will ship the following week. We're excited to have you give us a try!
 
 
 Returns accepted up to 30 days. Simply ship it all back with the included invoice for a full refund to the original payment method.
