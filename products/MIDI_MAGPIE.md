@@ -8,7 +8,7 @@ The MIDI MAGPIE turns your instrument into a **monophonic MIDI keyboard** thatâ€
       
 * Easy to calibrate for a new instrument in under a minute
 * Foot operable so you donâ€™t have to put down your instrument to get set up
-* The loudness (amplitude) of the note corresponds to what you play and its range can be specified
+* The loudness (amplitude) of the note corresponds to what you play and its output range can be set
 * Monitor the outputted MIDI values on the screen 
 * Can be connected to any device or program that supports MIDI!
 This includes transcription software, synthesizers and digital effects 
