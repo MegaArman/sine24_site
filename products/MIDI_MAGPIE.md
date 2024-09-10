@@ -27,4 +27,6 @@ This includes transcription software, synthesizers and digital effects
 
 **NOTE**: Currently we only ship within the USA (free shipping). We're working to ship internationally as soon as we can. 
 
-12-month no worry warranty. Returns accepted up to 30 days. Simply send it all back with the included invoice for a full refund to the original payment method.
+1 Year no worry warranty. 
+
+Returns accepted up to 30 days. Simply send it all back with the included invoice for a full refund to the original payment method.
