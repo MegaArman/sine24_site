@@ -25,9 +25,6 @@ This includes transcription software, synthesizers and digital effects
 * USB MIDI cable 
 * Instructions sheet
 
-**NOTE**: currently we only ship within the USA. We're working to ship internationally as soon as we can. 
+**NOTE**: Currently we only ship within the USA (free shipping). We're working to ship internationally as soon as we can. 
 
-Orders placed before July 27th, 2024 will ship the following week. We're excited to have you give us a try!
-
-
-Returns accepted up to 30 days. Simply ship it all back with the included invoice for a full refund to the original payment method.
+Returns accepted up to 30 days. Simply send it all back with the included invoice for a full refund to the original payment method.
