@@ -13,16 +13,16 @@ The MIDI MAGPIE turns your instrument into a **monophonic MIDI keyboard** that�
 * Can be connected to any device or program that supports MIDI!
 This includes transcription software, synthesizers and digital effects 
 * No special pickup needed. Plug your audio source into the 3.5mm input
-* Powered by micro-USB. Can be used for hours with any small power bank (not included)
+* Powered by micro-USB. Can be used for hours with any small power bank 
 * Compatible with most USB MIDI cables for output. One is included in the box
 * Supports updates via USB stick. Update file will be listed on sine24.com when available 
 * Designed and assembled in Virginia, USA. Uses local recycled 3D printer filament !
 
 ### What’s in the box?
 * MIDI MAGPIE
-* ¼ inch to 3.5mm adapter
-* switchable micro-USB cable (power adapter not included. Any micro-USB adapter will work)
 * USB MIDI cable 
+* ¼ inch to 3.5mm adapter
+* switchable micro-USB cable and power adapter
 * Instructions sheet
 
 **NOTE**: Currently we only ship within the USA (free shipping). We're working to ship internationally as soon as we can. 
