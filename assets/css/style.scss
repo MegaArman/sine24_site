@@ -207,3 +207,10 @@ header {
    margin: 0 0 4px 0;
 }
 
+stripe-buy-button {
+   margin-top: 50px;
+}
+
+stripe-buy-button > iframe {
+   height: 80%;
+}
