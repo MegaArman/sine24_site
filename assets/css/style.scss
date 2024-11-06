@@ -186,8 +186,14 @@ h1, h3, ul {
 p {
    margin: 20px 40px 20px 40px;
 }
+@media (max-width: 767px) {
+  #my-media {
+     width: 350px;
+     height: 315px;
+   }
+}
 @media (min-width: 768px) {
-  iframe {
+  #my-media {
      width: 500px;
      height: 400px;
    }
