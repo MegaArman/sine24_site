@@ -30,5 +30,3 @@ This includes transcription software, synthesizers and digital effects
 1 Year no worry warranty. 
 
 Returns accepted up to 30 days. Simply send it all back with the included invoice for a full refund to the original payment method.
-
-[![MIDI Magpie Demo](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FWIC1pE9YLtM)](https://youtu.be/WIC1pE9YLtM)
