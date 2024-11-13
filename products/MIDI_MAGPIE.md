@@ -16,7 +16,7 @@ This includes transcription software, synthesizers and digital effects
 * Powered by micro-USB. Can be used for hours with any small power bank 
 * Compatible with most USB MIDI cables for output. One is included in the box
 * Supports updates via USB stick. Update file will be listed on sine24.com when available 
-* Designed and assembled in Virginia, USA. Uses local recycled 3D printer filament !
+* Designed and assembled in Virginia, USA. Uses local recycled 3D printer filament ! 
 
 ### What’s in the box?
 * MIDI MAGPIE
@@ -25,7 +25,8 @@ This includes transcription software, synthesizers and digital effects
 * switchable micro-USB cable and power adapter
 * Instructions sheet
 
-**NOTE**: Currently we only ship within the USA (free shipping). We're working to ship internationally as soon as we can. 
+**NOTE**:
+Each MIDI Magpie will look slightly different, generally sporting a rugged type look. All are well tested and durable.
 
 1 Year no worry warranty. 
 
