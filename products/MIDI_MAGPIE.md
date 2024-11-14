@@ -26,7 +26,7 @@ This includes transcription software, synthesizers and digital effects
 * Instructions sheet
 
 **NOTE**:
-Each MIDI Magpie will look slightly different, generally sporting a rugged type look. All are well tested and durable.
+Each MIDI Magpie will look slightly different, generally sporting a rugged type look. 
 
 1 Year no worry warranty. 
 
