@@ -31,3 +31,6 @@ Each MIDI Magpie will look slightly different, generally sporting a rugged type 
 1 Year no worry warranty. 
 
 Returns accepted up to 30 days. Simply send it all back with the included invoice for a full refund to the original payment method.
+
+**International shipping**:
+International shipping is possible. Contact us at info@sine24.com with the address
