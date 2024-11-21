@@ -36,4 +36,4 @@ Returns accepted up to 30 days. Simply send it all back with the included invoic
 International shipping is possible. Contact us at info@sine24.com with the address
 
 
-The setup guide can be found [here](https://drive.google.com/file/d/1MKVZTpETLnTJJpVcqnfb124Hetv4F9Ac/view?usp=drive_link)
+[setup guide](https://drive.google.com/file/d/1MKVZTpETLnTJJpVcqnfb124Hetv4F9Ac/view?usp=drive_link)
