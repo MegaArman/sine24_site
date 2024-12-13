@@ -24,6 +24,8 @@ This includes transcription software, synthesizers and digital effects
 * ¼ inch to 3.5mm adapter
 * switchable micro-USB cable and power adapter
 * Instructions sheet
+  
+1 Year no worry warranty.
 
 Returns accepted up to 30 days. Simply send it all back with the included invoice for a full refund to the original payment method.
 
