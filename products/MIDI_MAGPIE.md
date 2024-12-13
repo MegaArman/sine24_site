@@ -25,11 +25,6 @@ This includes transcription software, synthesizers and digital effects
 * switchable micro-USB cable and power adapter
 * Instructions sheet
 
-**NOTE**:
-Each MIDI Magpie will look slightly different, generally sporting a rugged type look. 
-
-1 Year no worry warranty. 
-
 Returns accepted up to 30 days. Simply send it all back with the included invoice for a full refund to the original payment method.
 
 **International shipping**:
