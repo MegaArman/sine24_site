@@ -20,7 +20,7 @@ This includes transcription software, synthesizers and digital effects
 
 ### What’s in the box?
 * MIDI MAGPIE
-* USB MIDI cable 
+* USB MIDI cable x 2 and a 5-Pin adapter 
 * ¼ inch to 3.5mm adapter
 * switchable micro-USB cable and power adapter
 * Instructions sheet
